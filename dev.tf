@@ -1,0 +1,4 @@
+dev
+resource:{
+    asdlksa;
+}
